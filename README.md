@@ -5,11 +5,11 @@
 
 ### EN:  
 ######========  
-    **pyDowTube** is a program written in Pyhton that helps you download your favorite YouTube videos, created with a simple and functional code with an interdisciplinary intention.  
+    **pyDowTube** is a program written in Python that helps you download your favorite YouTube videos, created with a simple and functional code with an interdisciplinary intention.  
 
 ### PT:  
 ######========  
-    o **pyDowTube** é um programa escrito em pyhton que ajuda a fazer downloads de seus videos favoritos do youtube, criado com um codigo simples e funcional com intenção interiramente didatico.  
+    o **pyDowTube** é um programa escrito em Python que ajuda a fazer downloads de seus videos favoritos do youtube, criado com um codigo simples e funcional com intenção interiramente didatico.  
 
 # Installation / Instalação   
 ######=================================  
